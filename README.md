@@ -22,8 +22,8 @@ This program is a GUI-based Curling League Manager built with PySide6.
 ---
 
 ## Installation
-1. Clone the repository: git clone <>
-2. Navigate into the project directory: cd <>
+1. Clone the repository: git clone https://github.com/lauraburroughs/CPSC4970HW6
+2. Navigate into the project directory: cd CPSC4970HW6
 3. Install dependencies: pip install -r requirements.txt
 
 ---
